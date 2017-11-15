@@ -1,0 +1,11 @@
+{
+  "config": {
+      "encoding":"FLAC",
+      "languageCode": "lang",
+      "sampleRateHertz": 16000,
+      "enableWordTimeOffsets": false
+  },
+  "audio": {
+      "uri":"gs://bucketname/flac_audio_file"
+  }
+}
